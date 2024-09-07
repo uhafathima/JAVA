@@ -1,0 +1,16 @@
+class demo
+{
+	
+	static void display(String a)
+	{
+	System.out.println(a);
+	System.out.println(b);
+	}
+}
+class Function 
+{
+	public static void main(String[] args) 
+	{
+		demo.display("Suha");
+	}
+}

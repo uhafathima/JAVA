@@ -1,0 +1,19 @@
+class Example2
+{
+	void display()
+	{
+		System.out.println("Hello");
+	}
+	Example2
+	{
+		System.out.println("Hello World");
+	}
+class ConstructorTypes
+{
+	public static void main(String[] args) 
+	{
+		Example1 d1= new Example();
+		dl.display();
+		System.out.println("Hello World!");
+	}
+}

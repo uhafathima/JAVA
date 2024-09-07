@@ -1,0 +1,15 @@
+class demo
+{
+	static void display()
+	{
+		System.out.println("Hello");
+	}
+}
+class FuctionPractice
+{
+	public static void main(String[] args) 
+	{
+		 demo.display();
+		//System.out.println("Hello World!");
+	}
+}
